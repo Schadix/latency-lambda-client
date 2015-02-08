@@ -1,0 +1,16 @@
+{
+  "name": "latency-lambda-client",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "uuid": "^2.0.1"
+  },
+  "description": "client for sending monitoring info in NodeJS",
+  "main": "latency-lambda-client.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Schade <schadix@gmail.com> (http://schadix.com/)",
+  "license": "ISC"
+}
