@@ -1,7 +1,7 @@
 {
 	"name": "latency-lambda-client",
 	"version": "0.1.0",
-	"private": true,
+	"private": false,
 	"dependencies": {},
 	"description": "Just testing... client for sending monitoring info in NodeJS",
 	"main": "latency-lambda-client.js",
